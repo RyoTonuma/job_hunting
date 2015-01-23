@@ -1,0 +1,8 @@
+pminx = 100
+pminy = 42
+pmaxx = 750
+pmaxy = 499
+nminx = 99
+nminy = 41
+nmaxx = 751
+nmaxy = 500
